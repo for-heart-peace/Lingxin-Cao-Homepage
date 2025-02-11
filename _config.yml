@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-#title                    : "曹令鑫 / Lingxin Cao"
+title                    : "Lingxin Cao"
 title_separator          : "-"
 # name                     : &name "Your Name"
 # description              : &description "personal description"
@@ -22,7 +22,7 @@ title_separator          : "-"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "you.jpg"
+  avatar           : "profile.png"
   name             : "曹令鑫 / Lingxin Cao"
   # pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
