@@ -22,7 +22,7 @@ title_separator          : "-"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "you.png"
+  avatar           : "you.jpg"
   name             : "曹令鑫 / Lingxin Cao"
   # pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
