@@ -152,43 +152,43 @@ author:
 #     tracking_id          :
 
 
-# # Reading Files
-# include:
-#   - .htaccess
-#   - _pages
-#   - files
-# exclude:
-#   - "*.sublime-project"
-#   - "*.sublime-workspace"
-#   - .asset-cache
-#   - .bundle
-#   - .github
-#   - .jekyll-assets-cache
-#   - .sass-cache
-#   - assets/js/_main.js
-#   - assets/js/plugins
-#   - assets/js/vendor
-#   - CHANGELOG
-#   - Capfile
-#   - config
-#   - Dockerfile
-#   - Gemfile
-#   - Gruntfile.js
-#   - gulpfile.js
-#   - LICENSE
-#   - local
-#   - log
-#   - node_modules
-#   - package.json*
-#   - Rakefile
-#   - README
-#   - tmp
-#   - vendor
-# keep_files:
-#   - .git
-#   - .svn
-# encoding: "utf-8"
-# markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .github
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - CHANGELOG
+  - Capfile
+  - config
+  - Dockerfile
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - local
+  - log
+  - node_modules
+  - package.json*
+  - Rakefile
+  - README
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
