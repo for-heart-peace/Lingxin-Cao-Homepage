@@ -68,7 +68,7 @@ My research interests include computer graphics and intelligent manufacturing. C
 
 <div class="pub-container" style="display: flex; margin-bottom: 20px;">
 <div class="pub-image">
-    <img src="/images/Auxetic.jpg" alt="Paper Teaser">
+    <img src="/Lingxin-Cao-Homepage/images/Auxetic.jpg" alt="Paper Teaser">
 </div>
 <div class="pub-content">
     <p class="title"><strong>Auxetic dihedral Escher tessellations</strong></p>
@@ -79,7 +79,7 @@ My research interests include computer graphics and intelligent manufacturing. C
 
 <div class="pub-container" style="display: flex; margin-bottom: 20px;">
 <div class="pub-image" style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/images/Waiting.png" alt="Paper Teaser" style="width: 100%; border: 1px solid #ddd;">
+    <img src="/Lingxin-Cao-Homepage/images/Waiting.png" alt="Paper Teaser" style="width: 100%; border: 1px solid #ddd;">
 </div>
 <div class="pub-content">
     <p class="title"><strong>Waiting time prediction for bottom-up vat photopolymerization</strong></p>
@@ -103,7 +103,7 @@ My research interests include computer graphics and intelligent manufacturing. C
 
 <div class="pub-container" style="display: flex; margin-bottom: 20px;">
 <div class="pub-image">
-    <img src="/images/PH-net.png" alt="Paper Teaser">
+    <img src="/Lingxin-Cao-Homepage/images/PH-net.png" alt="Paper Teaser">
 </div>
 <div class="pub-content">
     <p class="title"><strong>PH-net: Parallelepiped microstructure homogenization via 3d convolutional neural networks</strong></p>
