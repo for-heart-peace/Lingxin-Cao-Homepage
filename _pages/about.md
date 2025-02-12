@@ -14,20 +14,24 @@ redirect_from:
     align-items: flex-start;
 }
 .pub-image {
-    flex: 0 0 300px; /* 固定宽度 */
+    flex: 0 0 300px;
     margin-right: 25px;
+    background-color: #f5f5f5; /* 图片容器背景色 */
+    height: 180px; /* 固定容器高度 */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    overflow: hidden;
 }
 .pub-image img {
-    width: 300px;
-    height: 180px; /* 16:9 比例 */
-    object-fit: cover;
-    border: 1px solid #ddd;
-    border-radius: 4px;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* 保持比例完整显示 */
     transition: transform 0.2s;
 }
 .pub-image img:hover {
-    transform: scale(1.03);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transform: scale(1.05);
 }
 .pub-content {
     flex: 1;
@@ -49,7 +53,8 @@ redirect_from:
 .pub-links a {
     color: #2962ff;
     text-decoration: none;
-    margin-right: 10px;
+    margin-right: 15px;
+    font-size: 0.95em;
 }
 .pub-links a:hover {
     text-decoration: underline;
