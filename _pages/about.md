@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Lingxin Cao Homepage"
+author_profile: false
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ## Biography
 
 I received my B.S. degree from Yantai University in 2019 and Ph.D. degree from Shandong University in 2024, under the supervision of Prof. Lin Lu. 
