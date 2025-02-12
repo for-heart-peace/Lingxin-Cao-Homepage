@@ -68,7 +68,7 @@ My research interests include computer graphics and intelligent manufacturing. C
 
 <div class="pub-container" style="display: flex; margin-bottom: 20px;">
 <div class="pub-image">
-    <img src="/Lingxin-Cao-Homepage/images/Auxetic.jpg" alt="Paper Teaser">
+    <img src="/images/Auxetic.jpg" alt="Paper Teaser">
 </div>
 <div class="pub-content">
     <p class="title"><strong>Auxetic dihedral Escher tessellations</strong></p>
