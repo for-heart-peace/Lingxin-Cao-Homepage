@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Lingxin Cao Homepage"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
