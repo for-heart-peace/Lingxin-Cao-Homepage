@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Lingxin Cao"
+site_theme               : "Lingxin Cao homepage"
+title                    : "Lingxin Cao homepage"
 title_separator          : "-"
 # name                     : &name "Your Name"
 # description              : &description "personal description"
