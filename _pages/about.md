@@ -5,13 +5,8 @@ I received my B.S. degree from Yantai University in 2019 and Ph.D. degree from S
 My research interests include computer graphics and intelligent manufacturing. Currently, I am focusing on exploring the relationship between geometric properties and physical characteristics in computational design and manufacturing.
 
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
 
-## Journal Papers
+## Publication
 
 ### 2024
 * **Title of your paper**  
