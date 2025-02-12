@@ -13,8 +13,8 @@ title                    : "Lingxin Cao homepage"
 title_separator          : "-"
 name                     : &name "Lingxin Cao homepage"
 # description              : &description "personal description"
-#url                      : https://for-heart-peace.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-#baseurl                  : "https://for-heart-peace.github.io/Lingxin-Cao-Homepage" # the subpath of your site, e.g. "/blog"
+url                      : https://for-heart-peace.github.io/Lingxin-Cao-Homepage # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "https://for-heart-peace.github.io/Lingxin-Cao-Homepage" # the subpath of your site, e.g. "/blog"
 repository               : "for-heart-peace/Lingxin-Cao-Homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
