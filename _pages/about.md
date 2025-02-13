@@ -123,7 +123,7 @@ My research interests include computer graphics and intelligent manufacturing. C
 
 <div class="pub-container" style="display: flex; margin-bottom: 20px;">
 <div class="pub-image">
-    <img src="/images/Expansion.jpg" alt="Paper Teaser">
+    <img src="/Lingxin-Cao-Homepage/images/Expansion.jpg" alt="Paper Teaser">
 </div>
 <div class="pub-content">
     <p class="title"><strong><a href="https://scholar.google.com/scholar?oi=bibs&cluster=10833751574011800589&btnI=1&hl=zh-CN">Expansion of measurement range: Tolerance analysis and application of the two-peak method for optical sensors with a few spectral peaks</a></strong></p>
@@ -146,7 +146,7 @@ My research interests include computer graphics and intelligent manufacturing. C
 
 <div class="pub-container" style="display: flex; margin-bottom: 20px;">
 <div class="pub-image">
-    <img src="/images/Nonlinear.jpg" alt="Paper Teaser">
+    <img src="/Lingxin-Cao-Homepage/images/Nonlinear.jpg" alt="Paper Teaser">
 </div>
 <div class="pub-content">
     <p class="title"><strong><a href="https://scholar.google.com/scholar?oi=bibs&cluster=6679558286962270003&btnI=1&hl=zh-CN">Nonlinear regression: A possible solution to larger dynamic range for some spectrum-based optical sensors</a></strong></p>
@@ -157,7 +157,7 @@ My research interests include computer graphics and intelligent manufacturing. C
 
 <div class="pub-container" style="display: flex; margin-bottom: 20px;">
 <div class="pub-image">
-    <img src="/images/Universal.jpg" alt="Paper Teaser">
+    <img src="/Lingxin-Cao-Homepage/images/Universal.jpg" alt="Paper Teaser">
 </div>
 <div class="pub-content">
     <p class="title"><strong><a href="https://scholar.google.com/scholar?oi=bibs&cluster=15896634829461340037&btnI=1&hl=zh-CN">Universal ultra-sensitive refractive index sensor based on an integrated SiO2 asymmetric Mach-Zehnder interference filter (AMZIF)</a></strong></p>
@@ -168,7 +168,7 @@ My research interests include computer graphics and intelligent manufacturing. C
 
 <div class="pub-container" style="display: flex; margin-bottom: 20px;">
 <div class="pub-image">
-    <img src="/images/Constrained.png" alt="Paper Teaser">
+    <img src="/Lingxin-Cao-Homepage/images/Constrained.png" alt="Paper Teaser">
 </div>
 <div class="pub-content">
     <p class="title"><strong><a href="https://scholar.google.com/scholar?oi=bibs&cluster=1305750610420818067&btnI=1&hl=zh-CN>Constrained stacking in DLP 3D printing</a></strong></p>
