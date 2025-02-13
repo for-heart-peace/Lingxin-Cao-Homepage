@@ -114,7 +114,7 @@ My research interests include computer graphics and intelligent manufacturing. C
     <img src="/Lingxin-Cao-Homepage/images/Waiting.png" alt="Paper Teaser">
 </div>
 <div class="pub-content">
-    <p class="title"><strong>Waiting time prediction for bottom-up vat photopolymerization</strong></p>
+    <p class="title"><strong><a href="https://scholar.google.com/scholar?oi=bibs&cluster=11190084159199273027&btnI=1&hl=zh-CN">Waiting time prediction for bottom-up vat photopolymerization</a></strong></p>
     <p class="authors"><strong>Lingxin Cao</strong>, Lin Lu, Xiaokang Liu, Jian Zhang, Tengfei Jiang, Changhe Tu, Baoquan Chen</p>
     <p class="venue"><em>Additive Manufacturing</em>, 2023</p>
 </div>
@@ -126,7 +126,7 @@ My research interests include computer graphics and intelligent manufacturing. C
     <img src="/images/Expansion.png" alt="Paper Teaser">
 </div>
 <div class="pub-content">
-    <p class="title"><strong>Expansion of measurement range: Tolerance analysis and application of the two-peak method for optical sensors with a few spectral peaks</strong></p>
+    <p class="title"><strong><a href="https://scholar.google.com/scholar?oi=bibs&cluster=10833751574011800589&btnI=1&hl=zh-CN">Expansion of measurement range: Tolerance analysis and application of the two-peak method for optical sensors with a few spectral peaks</a></strong></p>
     <p class="authors">Rui Yin, <strong>Lingxin Cao</strong>, Qingjie Huang, Lin Lu, Xu Yang, Jun Ying, Hongliang Yang, Wei Ji, Pengcheng Liu, Shouzhen Jiang</p>
     <p class="venue"><em>Measurement</em>, 2023</p>
 </div>
@@ -138,7 +138,7 @@ My research interests include computer graphics and intelligent manufacturing. C
     <img src="/Lingxin-Cao-Homepage/images/PH-net.png" alt="Paper Teaser">
 </div>
 <div class="pub-content">
-    <p class="title"><strong>PH-net: Parallelepiped microstructure homogenization via 3d convolutional neural networks</strong></p>
+    <p class="title"><strong><a href="https://scholar.google.com/scholar?oi=bibs&cluster=2041745201698865714&btnI=1&hl=zh-CN">PH-net: Parallelepiped microstructure homogenization via 3d convolutional neural networks</a></strong></p>
     <p class="authors">Hao Peng, An Liu, Jingcheng Huang, <strong>Lingxin Cao</strong>, Jikai Liu, Lin Lu</p>
     <p class="venue"><em>Additive Manufacturing</em>, 2022</p>
 </div>
@@ -149,7 +149,7 @@ My research interests include computer graphics and intelligent manufacturing. C
     <img src="/images/Nonlinear.png" alt="Paper Teaser">
 </div>
 <div class="pub-content">
-    <p class="title"><strong>Nonlinear regression: A possible solution to larger dynamic range for some spectrum-based optical sensors</strong></p>
+    <p class="title"><strong><a href="https://scholar.google.com/scholar?oi=bibs&cluster=6679558286962270003&btnI=1&hl=zh-CN">Nonlinear regression: A possible solution to larger dynamic range for some spectrum-based optical sensors</a></strong></p>
     <p class="authors">Rui Yin, <strong>Lingxin Cao</strong>, Qingjie Huang, Hongliang Yang, Wei Ji, Lin Lu, Xu Yang, Fengyu Liu, Pengcheng Liu, Shouzhen Jiang</p>
     <p class="venue"><em>Measurement</em>, 2022</p>
 </div>
@@ -160,7 +160,7 @@ My research interests include computer graphics and intelligent manufacturing. C
     <img src="/images/Universal.png" alt="Paper Teaser">
 </div>
 <div class="pub-content">
-    <p class="title"><strong>Universal ultra-sensitive refractive index sensor based on an integrated SiO2 asymmetric Mach-Zehnder interference filter (AMZIF)</strong></p>
+    <p class="title"><strong><a href="https://scholar.google.com/scholar?oi=bibs&cluster=15896634829461340037&btnI=1&hl=zh-CN">Universal ultra-sensitive refractive index sensor based on an integrated SiO2 asymmetric Mach-Zehnder interference filter (AMZIF)</a></strong></p>
     <p class="authors">Rui Yin, <strong>Lingxin Cao</strong>, Qingjie Huang, Hongliang Yang, Lin Lu, Wei Ji, Fengyu Liu, Jingwen Sun, Xiaojie Yin, Xiaohua Su, Shouzhen Jiang</p>
     <p class="venue"><em>Measurement</em>, 2022</p>
 </div>
@@ -171,7 +171,7 @@ My research interests include computer graphics and intelligent manufacturing. C
     <img src="/images/Constrained.png" alt="Paper Teaser">
 </div>
 <div class="pub-content">
-    <p class="title"><strong>Constrained stacking in DLP 3D printing</strong></p>
+    <p class="title"><strong><a href="https://scholar.google.com/scholar?oi=bibs&cluster=1305750610420818067&btnI=1&hl=zh-CN</a></strong></p>
     <p class="authors"><strong>Lingxin Cao</strong>, Lihao Tian, Hao Peng, Yu Zhou, Lin Lu</p>
     <p class="venue"><em>Computers & Graphics</em>, 2021</p>
 </div>
