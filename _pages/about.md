@@ -36,7 +36,7 @@ redirect_from:
 .pub-image img:hover {
     transform: scale(1.05);
 }
-.pub-content {
+/* .pub-content {
     flex: 1;
 }
 .pub-title {
@@ -52,6 +52,30 @@ redirect_from:
     color: #666;
     font-style: italic;
     margin-bottom: 8px;
+} */
+  
+  .pub-content {
+    flex: 1 1 800px; /* 明确指定文字部分最小宽度 */
+    min-width: 0;
+    padding-right: 20px;
+}
+.pub-title {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-bottom: 12px;
+    color: #2c3e50;
+    line-height: 1.4;
+}
+.pub-authors {
+    color: #444;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+}
+.pub-venue {
+    color: #666;
+    font-style: italic;
+    margin-bottom: 15px;
+    font-size: 1.05em;
 }
 .pub-links a {
     color: #2962ff;
