@@ -12,14 +12,14 @@ redirect_from:
     display: flex;
     margin-bottom: 30px;
     align-items: flex-start;
-    max-width: 2000px; /* 增加最大容器宽度 */
+    max-width: 3000px; /* 增加最大容器宽度 */
     margin-left: auto;
     margin-right: auto;
 }
 .pub-image {
     flex: 0 0 300px;
     margin-right: 25px;
-    background-color: #f5f5f5; /* 图片容器背景色 */
+    #background-color: #f5f5f5; /* 图片容器背景色 */
     height: 180px; /* 固定容器高度 */
     display: flex;
     align-items: center;
@@ -55,7 +55,7 @@ redirect_from:
 } */
   
   .pub-content {
-    flex: 1 1 1500px; /* 明确指定文字部分最小宽度 */
+    flex: 1 1 2500px; /* 明确指定文字部分最小宽度 */
     min-width: 0;
     padding-right: 20px;
 }
