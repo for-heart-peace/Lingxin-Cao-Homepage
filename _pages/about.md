@@ -103,7 +103,7 @@ My research interests include computer graphics and intelligent manufacturing. C
     <img src="/Lingxin-Cao-Homepage/images/Auxetic.jpg" alt="Paper Teaser">
 </div>
 <div class="pub-content">
-    <p class="title"><strong><a href="https://scholar.google.com/scholar?oi=bibs&cluster=15430907429012963555&btnI=1&hl=zh-CN">Auxetic dihedral Escher tessellations</strong></a></p>
+    <p class="title"><strong><a href="https://scholar.google.com/scholar?oi=bibs&cluster=15430907429012963555&btnI=1&hl=zh-CN">Auxetic dihedral Escher tessellations</a></strong></p>
     <p class="authors">Xiaokang Liu, Lin Lu, <strong>Lingxin Cao</strong>, Oliver Deussen, Changhe Tu</p>
     <p class="venue"><em>Graphical Models</em>, 2024</p>
 </div>
