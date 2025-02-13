@@ -12,6 +12,9 @@ redirect_from:
     display: flex;
     margin-bottom: 30px;
     align-items: flex-start;
+    max-width: 1400px; /* 增加最大容器宽度 */
+    margin-left: auto;
+    margin-right: auto;
 }
 .pub-image {
     flex: 0 0 300px;
