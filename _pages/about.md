@@ -12,7 +12,7 @@ redirect_from:
     display: flex;
     margin-bottom: 30px;
     align-items: flex-start;
-    max-width: 1400px; /* 增加最大容器宽度 */
+    max-width: 2000px; /* 增加最大容器宽度 */
     margin-left: auto;
     margin-right: auto;
 }
@@ -55,7 +55,7 @@ redirect_from:
 } */
   
   .pub-content {
-    flex: 1 1 1000px; /* 明确指定文字部分最小宽度 */
+    flex: 1 1 1500px; /* 明确指定文字部分最小宽度 */
     min-width: 0;
     padding-right: 20px;
 }
