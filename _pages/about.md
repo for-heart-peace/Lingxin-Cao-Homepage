@@ -86,8 +86,8 @@ My research interests include computer graphics and intelligent manufacturing. C
 </div>
 
 <div class="pub-container" style="display: flex; margin-bottom: 20px;">
-<div class="pub-image" style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/Lingxin-Cao-Homepage/images/Waiting.png" alt="Paper Teaser" style="width: 100%; border: 1px solid #ddd;">
+<div class="pub-image">
+    <img src="/Lingxin-Cao-Homepage/images/Waiting.png" alt="Paper Teaser">
 </div>
 <div class="pub-content">
     <p class="title"><strong>Waiting time prediction for bottom-up vat photopolymerization</strong></p>
