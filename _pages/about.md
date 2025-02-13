@@ -55,7 +55,7 @@ redirect_from:
 } */
   
   .pub-content {
-    flex: 1 1 800px; /* 明确指定文字部分最小宽度 */
+    flex: 1 1 1000px; /* 明确指定文字部分最小宽度 */
     min-width: 0;
     padding-right: 20px;
 }
