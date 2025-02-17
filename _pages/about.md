@@ -181,7 +181,7 @@ My research interests include computer graphics and intelligent manufacturing. C
 - **Algorithm Intern** @ Shining 3D Tech Co., Ltd  
   *Oct 2021 - Dec 2021*
 
-- **Game Research Engineer** @ NetEase Games  
+- **Game Engine Development Engineer** @ NetEase Games  
   *Jun 2021 - Aug 2021*
 
 - **Algorithm Intern** @ Shining 3D Tech Co., Ltd  
