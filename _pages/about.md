@@ -171,7 +171,7 @@ My research interests include computer graphics and intelligent manufacturing. C
     <img src="/Lingxin-Cao-Homepage/images/Constrained.png" alt="Paper Teaser">
 </div>
 <div class="pub-content">
-    <p class="title"><strong><a href="https://scholar.google.com/scholar?oi=bibs&cluster=1305750610420818067&btnI=1&hl=zh-CN>Constrained stacking in DLP 3D printing</a></strong></p>
+    <p class="title"><strong><a href="https://scholar.google.com/scholar?oi=bibs&cluster=1305750610420818067&btnI=1&hl=zh-CN">Constrained stacking in DLP 3D printing</a></strong></p>
     <p class="authors"><strong>Lingxin Cao</strong>, Lihao Tian, Hao Peng, Yu Zhou, Lin Lu</p>
     <p class="venue"><em>Computers & Graphics</em>, 2021</p>
 </div>
