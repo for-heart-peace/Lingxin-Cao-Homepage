@@ -100,6 +100,18 @@ My research interests include computer graphics and intelligent manufacturing. C
 
 <div class="pub-container" style="display: flex; margin-bottom: 20px;">
 <div class="pub-image">
+    <img src="/Lingxin-Cao-Homepage/images/nvpp_auto_support.jpg" alt="Paper Teaser">
+</div>
+<div class="pub-content">
+    <p class="title"><strong><a href="https://doi.org/10.1080/17452759.2025.2466189">Auto-support: traction force constrained support structures optimization for bottom-up vat photopolymerization</a></strong></p>
+    <p class="authors"><strong>Lingxin Cao</strong>, Xin Yan, Longdu Liu, Jikai Liu, Tengfei Jiang, Lin Lu</p>
+    <p class="venue"><em>Virtual and Physical Prototyping</em>, 2024</p>
+</div>
+</div>
+
+
+<div class="pub-container" style="display: flex; margin-bottom: 20px;">
+<div class="pub-image">
     <img src="/Lingxin-Cao-Homepage/images/Auxetic.jpg" alt="Paper Teaser">
 </div>
 <div class="pub-content">
