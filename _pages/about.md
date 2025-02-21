@@ -20,7 +20,7 @@ redirect_from:
     flex: 0 0 300px;
     margin-right: 25px;
     #background-color: #f5f5f5; /* 图片容器背景色 */
-    height: 180px; /* 固定容器高度 */
+    width: 400px; /* 固定容器高度 */
     display: flex;
     align-items: center;
     justify-content: center;
